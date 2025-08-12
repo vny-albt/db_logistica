@@ -24,5 +24,3 @@ Para replicar este ambiente do banco de dados, siga os passos abaixo:
 Utilize o arquivo .sql para recriar o ambiente do banco de dados.
 
 ``` psql -U seu_usuario -d seu_banco_de_dados -f dump-db_logistica-202507221550.sql ```
-
-> Projeto desenvolvido por "github.com/vny-albt". A inteligência artificial foi utilizada como ferramenta de estudo e aplicação.
